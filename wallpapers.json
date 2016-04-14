@@ -21,7 +21,7 @@
       {
          "author": "Kyle Simmons",
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/LoveofalighthouseUFO.png",
-         "name": "Love of a Lighthouse",
+         "name": "Lighthouse Love",
          "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/LoveofalighthouseUFO_thumb.png"
       },
       {
@@ -36,5 +36,17 @@
          "name":"Roam",
          "thumbnail":"https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/RoamWall2_thumb.png"
       }
+      {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/TheMariner_flat.png",
+         "name": "The Mariner",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/TheMariner_flat_thumb.png"
+      },
+      {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/windowsview.png",
+         "name": "Windows View",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/windowsview_thumb.png"
+      },
    ]
 }
