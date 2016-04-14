@@ -2,27 +2,15 @@
    "wallpapers": [
       {
          "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/BlueWinter.png",
-         "name": "Blue Winter",
-         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/BlueWinter_thumb.png"
-      },
-      {
-         "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Bridgeoverreef.png",
-         "name": "Bridge Over Reef",
-         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Bridgeoverreef_thumb.png"
-      },
-      {
-         "author": "Kyle Simmons",
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3.png",
          "name":" Little Light",
          "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3_thumb.png"
       },
       {
          "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/LoveofalighthouseUFO.png",
-         "name": "Lighthouse Love",
-         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/LoveofalighthouseUFO_thumb.png"
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Bridgeoverreef.png",
+         "name": "Bridge Over Reef",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Bridgeoverreef_thumb.png"
       },
       {
          "author": "Kyle Simmons",
@@ -35,6 +23,18 @@
          "url":"https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/windowsview.png",
          "name":"Windows View",
          "thumbnail":"https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/windowsview_thumb.png"
+      },
+      {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/BlueWinter.png",
+         "name": "Blue Winter",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/BlueWinter_thumb.png"
+      },
+      {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/LoveofalighthouseUFO.png",
+         "name": "Lighthouse Love",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/LoveofalighthouseUFO_thumb.png"
       },
       {
          "author": "Kyle Simmons",
