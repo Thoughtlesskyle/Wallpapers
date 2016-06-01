@@ -2,9 +2,9 @@
    "wallpapers": [
       {
          "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/BlueWinter.png",
-         "name": "Blue Winter",
-         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/BlueWinter_thumb.png"
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3.png",
+         "name":" Little Light",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3_thumb.png"
       },
       {
          "author": "Kyle Simmons",
@@ -12,35 +12,47 @@
          "name": "Bridge Over Reef",
          "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Bridgeoverreef_thumb.png"
       },
-      {
+	  {
          "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/foxmoon.png",
-         "name": "Fox Moon",
-         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/foxmoon_thumb.png"
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/underwater.jpeg",
+         "name": "Underwater",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/underwater_thumb.jpeg"
       },
-      {
+	  {
          "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3.png",
-         "name":" Little Light",
-         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3_thumb.png"
-      },
-      {
-         "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Matyrmids_np.png",
-         "name": "Matyramids",
-         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Matyrmids_np_thumb.png"
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/fenced%20in.jpg",
+         "name": "Fenced In",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/fenced%20in_thumb.jpg"
       },
       {
          "author": "Kyle Simmons",
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/TheMariner_flat.png",
-         "name": "The Mariner",
+         "name": "Deep Diver",
          "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/TheMariner_flat_thumb.png"
       },
       {
+         "author":"Kyle Simmons",
+         "url":"https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/windowsview.png",
+         "name":"Windows View",
+         "thumbnail":"https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/windowsview_thumb.png"
+      },
+	  {
          "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/windowsview.png",
-         "name": "Windows View",
-         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/windowsview_thumb.png"
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Vintage%20Street.jpeg",
+         "name": "Vintage Street",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Vintage%20Street_thumb.jpeg"
+      },
+	  {
+         "author": "Jack Pearl",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/the%20American%20Standard.jpeg",
+         "name": "American Standard",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/the%20American%20Standard_thumb.jpeg"
+      },
+      {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/BlueWinter.png",
+         "name": "Blue Winter",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/BlueWinter_thumb.png"
       },
       {
          "author": "Kyle Simmons",
@@ -49,10 +61,17 @@
          "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/LoveofalighthouseUFO_thumb.png"
       },
       {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Matyrmids_np.png",
+         "name": "Matyramids",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Matyrmids_np_thumb.png"
+      },
+      {
          "author":"Kyle Simmons",
          "url":"https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/RoamWall2.png",
          "name":"Roam",
          "thumbnail":"https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/RoamWall2_thumb.png"
-      },
+      }
+	  
    ]
 }
