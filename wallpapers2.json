@@ -2,6 +2,18 @@
    "wallpapers": [
       {
          "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/polywall.png",
+         "name":" Polywall",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/polywall_thumb.png"
+      },
+      {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/rainshield.jpeg",
+         "name":"Rainshield",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/rainshield_thumb.jpeg"
+      },
+      {
+         "author": "Kyle Simmons",
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3.png",
          "name":" Little Light",
          "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3_thumb.png"
@@ -47,6 +59,24 @@
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/fenced%20in.jpg",
          "name": "Fenced In",
          "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/fenced%20in_thumb.jpg"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/linesandstuff.png",
+         "name": "Lines and Stuff",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/linesandstuff_thumb.png"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/moremountainslessufos.png",
+         "name": "More Mountains",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/moremountainslessufos_thumb.png"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/foxmoon.png",
+         "name": "Fox Moon",
+         "thumbnail": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/foxmoon_thumb.png"
       },
       {
          "author": "Kyle Simmons",
