@@ -2,7 +2,7 @@
    "wallpapers": [
       {
          "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/citystreets",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/citystreets.png",
          "name":" City Streets"
       },
 	  {
@@ -29,6 +29,16 @@
          "author": "Kyle Simmons",
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/dayglo2.png",
          "name":" Day Glo"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/cloudypines.png",
+         "name": "Cloudy Pines"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/redwoods.png",
+         "name": "Redwood Grove"
       },
 	  {
          "author": "Kyle Simmons",
@@ -94,16 +104,6 @@
          "author": "Kyle Simmons",
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/fenced%20in.jpg",
          "name": "Fenced In"
-      },
-	  {
-         "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/cloudypines.png",
-         "name": "Cloudy Pines"
-      },
-	  {
-         "author": "Kyle Simmons",
-         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/redwoods.png",
-         "name": "Redwood Grove"
       },
 	  {
          "author": "Kyle Simmons",
