@@ -2,6 +2,46 @@
    "wallpapers": [
       {
          "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/citystreets.png",
+         "name":" City Streets"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/bigcityattack2.png",
+         "name":" Big City Attack"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/finalfrontier2.png",
+         "name":" Final Frontier"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/viewfromhere.png",
+         "name":" View From Here"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/pyramidoasis.png",
+         "name":" Pyramid Oasis"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/dayglo2.png",
+         "name":" Day Glo"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/cloudypines.png",
+         "name": "Cloudy Pines"
+      },
+	  {
+         "author": "Kyle Simmons",
+         "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/redwoods.png",
+         "name": "Redwood Grove"
+      },
+	  {
+         "author": "Kyle Simmons",
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/polywall.png",
          "name":" Polywall"
       },
@@ -20,7 +60,6 @@
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/pondlake.png",
          "name":"Pond Lake"
       },
-
       {
          "author": "Kyle Simmons",
          "url": "https://raw.githubusercontent.com/Thoughtlesskyle/Wallpapers/master/Littlelight3.png",
